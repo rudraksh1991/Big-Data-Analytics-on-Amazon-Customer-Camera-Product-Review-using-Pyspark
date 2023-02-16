@@ -5,10 +5,15 @@ Performed analysis using Pyspark, chaining, secondary sorting, partitioning, sum
 
 
 Abstract:
-Analysis of amazon is very crucial part when it comes to find an efficient way of getting insights on customer reviews about different products. Hence, this project is mainly aimed to analyse big data and produce an informative result about the customer reviews for the product Camera present on Amazon using Pyspark architecture, MLlib Collaborative Filtering and Delta Storage.
+Analysis of amazon is very crucial part when it comes to find an efficient way of getting insights on customer reviews about different products. Hence, this project is mainly aimed to analyse big data and produce an informative result about the customer reviews for the product Camera present on Amazon using Pyspark architecture, MLlib Collaborative Filtering and Optimized Storage.
+
+
 Dataset:
+
 Dataset Link:
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Camera_v1_00.tsv.gz
+
+
 Accessing the data:
 Data is present in the Amazon S3 bucket. It can be accessed as mentioned in below link, download the link and extract the Zip file – https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Camera_v1_00.tsv.gz
 About the data:

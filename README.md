@@ -1,6 +1,9 @@
 Big-Data-Analytics-on-Amazon-Customer-Reviews
 
 Performed analysis using Pyspark, chaining, secondary sorting, partitioning, summarization, and filtration patterns. Also made use of Collaborative Filtering to build the recommendation system.
+
+
+
 Abstract:
 Analysis of amazon is very crucial part when it comes to find an efficient way of getting insights on customer reviews about different products. Hence, this project is mainly aimed to analyse big data and produce an informative result about the customer reviews for the product Camera present on Amazon using Pyspark architecture, MLlib Collaborative Filtering and Delta Storage.
 Dataset:
